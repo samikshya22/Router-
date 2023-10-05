@@ -16,6 +16,9 @@ function App() {
           <li>
             <Link to="contact">Contact</Link>
           </li>
+          <li>
+            <Link to="service">Service</Link>
+          </li>
         </ul>
       </nav>
 
